@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Drive_Backup.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <Drive_Backup.Properties.Settings>
+            <setting name="runner" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="warning" serializeAs="String">
+                <value>False</value>
+            </setting>
+        </Drive_Backup.Properties.Settings>
+    </userSettings>
+</configuration>
